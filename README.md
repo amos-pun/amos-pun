@@ -10,11 +10,11 @@
 
 - 🌱 I’m currently learning **[ Back-End Developer ]**
 
-- 👯 I’m looking to collaborate on **[ Front-End Developer ]**
+- 💼 I’m looking to collaborate on **[ Front-End Developer ]**
 
-- 💼 I’m looking for help with **[ Web Deployment ]**
+- 🏋️ I’m looking for help with **[ Web Deployment ]**
 
--  👨‍💻 All of my projects are available at [amos-pun](amos-pun)
+- 👨‍💻 All of my projects are available at [amos-pun](amos-pun)
 
 - 💬 Ask me about **[ MERN Stack ]**
 
