@@ -1,6 +1,6 @@
 <img width="100%" height="auto" src="https://skybase.com.np/storage/19/Website-Development-Company-in-Bhopal.png" alt="img.">
 <h1 align="center">🚀🚀 Amos Pun 🚀🚀</h1>
-<h3 align="center">A passionate MERN Stack Developer from Nepal</h3>
+<h3 align="center">A passionate MERN Stack Developer from London, UK.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=amos-pun&label=Profile%20views&color=0e75b6&style=flat" alt="amos-pun"> </p>
 
