@@ -1,4 +1,3 @@
-<img width="100%" height="auto" src="https://skybase.com.np/storage/19/Website-Development-Company-in-Bhopal.png" alt="img.">
 <h1 align="center">🚀🚀 Amos Pun 🚀🚀</h1>
 <h3 align="center">A passionate MERN Stack Developer from London, UK.</h3>
 
